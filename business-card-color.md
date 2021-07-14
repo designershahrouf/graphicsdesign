@@ -37,16 +37,31 @@
 #2b496f | #f1f1f0 | #e0444e | #9aa9b3 | #c79e4a 
 #1474ea | #9a9b9b | #1c8fbd | #242424 | #e63d48
 
-# BUSINESS CARD EXAMPLE 
+# BUSINESS CARDSIZE & EXAMPLE 
 
-<a href="url"><img src="https://www.wordexceltemplates.com/wp-content/uploads/2019/05/Construction-Business-card-5-CRC.png" align="left" height="232" width="433" ></a>
+<a href="url"><img src="https://www.wordexceltemplates.com/wp-content/uploads/2019/05/Construction-Business-card-5-CRC.png" align="left" height="238" width="438" ></a>
 
+<a href="url"><img src="https://logosbynick.com/wp-content/uploads/2019/09/business-card-size-templates.png" align="left" height="234" width="478" ></a>
 
-# BUSINESS CARD SIZE
+<br /> 
 
-<a href="url"><img src="https://logosbynick.com/wp-content/uploads/2019/09/business-card-size-templates.png" align="left" height="232" width="433" ></a>
+<br /> 
+
+# [Join Our Facebook Group](https://www.facebook.com/groups/graphicsdesign71)
 
 <br />
-<br />
 
+As Albert Einstein said:
+> Insanity is repeating things and excepting different results.
 
+# Follow Me On Social Media and Buy Your Design From Me 
+
+- Behance: [DESIGNER SHAHROUF](https://www.behance.net/designershahrouf)
+- Dribble: [DESIGNER SHAHROUF](https://dribbble.com/designerrakib)
+- Website: [DESIGNER SHAHROUF](https://www.designershahrouf.blogspot.com)
+- Facebook: [DESIGNER SHAHROUF](https://www.facebook.com/groups/graphicsdesign71)
+- Twitter: [DESIGNER SHAHROUF](https://www.twitter.com/designershahrouf)
+- Deviantart: [DESIGNER SHAHROUF](https://www.deviantart.com/designershahrouf)
+- Upwork: [Order Service](https://www.upwork.com/o/profiles/users/~0100df4e55e467097e/)
+- Fiverr: [Order Your Design]
+- Freelancer: [Order Your Design]
